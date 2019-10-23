@@ -12,7 +12,7 @@ Van Huynh, Thong, Soo-Hyung Kim, Guee-Sang Lee, and Hyung-Jeong Yang. "Engagemen
 ```
 @inproceedings{van2019engagement,
   title={Engagement Intensity Prediction with Facial Behavior Features},
-  author={Van Huynh, Thong and Kim, Soo-Hyung and Lee, Guee-Sang and Yang, Hyung-Jeong},
+  author={Van Thong, Huynh and Kim, Soo-Hyung and Lee, Guee-Sang and Yang, Hyung-Jeong},
   booktitle={2019 International Conference on Multimodal Interaction},
   pages={567--571},
   year={2019},
